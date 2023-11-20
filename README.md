@@ -29,8 +29,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/azrafsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="azrafsami" height="30" width="40" /></a>
+<a href="https://bn.quora.com/profile/Azraf-Sami-1" target="blank"><img align="center" src="https://github.com/Sk-Azraf-Sami/Sk-Azraf-Sami/blob/main/Quora_Q_icon_2015.svg.png" alt="azrafsami" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sk-azraf-sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk-azraf-sami" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15111714/azraf-sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="azraf-sami" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/azraf-sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="azraf-sami" height="30" width="40" /></a>
 <a href="https://medium.com/@sk.azraf7026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sk.azraf7026" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/azraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="azraf" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/azraf_sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="azraf_sami" height="30" width="40" /></a>
