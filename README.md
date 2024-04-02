@@ -49,6 +49,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-azraf-sami&show_icons=true&locale=en&layout=compact" alt="sk-azraf-sami" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-azraf-sami&show_icons=true&locale=en" alt="sk-azraf-sami" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-azraf-sami&show_icons=true&locale=en" alt="sk-azraf-sami" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-azraf-sami&" alt="sk-azraf-sami" /></p>
