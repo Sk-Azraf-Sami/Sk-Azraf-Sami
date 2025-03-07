@@ -1,9 +1,9 @@
 <!-- Header with a banner -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/Sk-Azraf-Sami">
     <img src="https://github.com/Sk-Azraf-Sami/Azraf-Sami/blob/main/mern-stack.png" alt="MasterHead">
   </a>
-</p>
+</p>-->
 
 <h1 align="center">Hi 👋, I'm Azraf Sami</h1>
 <h3 align="center">A Passionate Developer & Learner from Bangladesh</h3>
@@ -46,6 +46,9 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
+    <a href="https://www.hackerrank.com/azraf_sami" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%2329B73F.svg?style=for-the-badge&logo=hackerrank&logoColor=white">
+  </a>
   <a href="https://codepen.io/azrafsami" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-%2314171A.svg?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
@@ -63,9 +66,6 @@
   </a>
   <a href="https://www.codechef.com/users/azraf" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-%23D83B01.svg?style=for-the-badge&logo=codechef&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/azraf_sami" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%2329B73F.svg?style=for-the-badge&logo=hackerrank&logoColor=white">
   </a>
   <a href="https://www.leetcode.com/sami_azraf" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white">
