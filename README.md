@@ -16,25 +16,31 @@
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sk-azraf-sami&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=sk-azraf-sami&theme=tokyonight&no-frame=true&no-bg=true&exclude_repo=review" alt="GitHub Trophies">
   </a>
 </p>
 
-<!-- Animated GIF -->
-<p align="center">
-  <img src="https://github.com/Sk-Azraf-Sami/Azraf-Sami/blob/main/test.gif" alt="Coding" width="400">
-</p>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **MERN Stack Projects**  
-- 🌱 I’m currently learning **Advanced MERN Development**  
-- 🤝 I’m looking for collaborations on **Startup Projects**  
-- 💬 Ask me about **React, JavaScript, Java, Bash Scripting**  
-- 📫 How to reach me: **azraf4communication@gmail.com**  
-- ⚡ Fun fact: **I love watching documentaries about International Politics!**  
+<table>
+  <tr>
+    <td>
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on <strong>MERN Stack Projects</strong></li>
+        <li>🌱 I’m currently learning <strong>Advanced MERN Development</strong></li>
+        <li>🤝 I’m looking for collaborations on <strong>Startup Projects</strong></li>
+        <li>💬 Ask me about <strong>React, JavaScript, Java, Bash Scripting</strong></li>
+        <li>📫 How to reach me: <strong>azraf4communication@gmail.com</strong></li>
+        <li>⚡ Fun fact: <strong>I love watching documentaries about International Politics!</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/Sk-Azraf-Sami/Azraf-Sami/blob/main/test.gif" alt="Coding" width="400">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,11 +87,14 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
 </p>
 
 ### 🔹 Frontend  
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -98,11 +107,23 @@
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+### 🔹 DevOps & CI/CD  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+</p>
+
+### 🔹 Blockchain Development  
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardhat-%23FFCC00.svg?style=for-the-badge&logo=ethereum&logoColor=black">
+  <img src="https://img.shields.io/badge/Brownie-%23663399.svg?style=for-the-badge&logo=ethereum&logoColor=white">
 </p>
 
 ### 🔹 Tools & Other  
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
