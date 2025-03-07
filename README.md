@@ -13,13 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=sk-azraf-sami&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
 </p>
 
+
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sk-azraf-sami&theme=tokyonight&no-frame=true&no-bg=true&exclude_repo=review" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=sk-azraf-sami&theme=tokyonight&no-frame=true&no-bg=true&exclude=Reviews" alt="GitHub Trophies">
   </a>
 </p>
-
 
 ---
 
@@ -132,5 +132,20 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-azraf-sami&theme=tokyonight">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-azraf-sami&layout=compact&theme=tokyonight&hide_title=true&border_radius=10" alt="Top Languages">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sk-azraf-sami&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&border_radius=10" alt="GitHub Stats">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sk-azraf-sami&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph">
+  </a>
 </p>
