@@ -136,6 +136,12 @@
   </a>
 </p>
 
+<div align="center">
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sk-azraf-sami&theme=radical&hide_border=false)<br/>
+
+</div>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=sk-azraf-sami&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&border_radius=10" alt="GitHub Stats">
