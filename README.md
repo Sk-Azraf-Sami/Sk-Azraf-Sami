@@ -27,10 +27,10 @@
     <td>
       <h2>🚀 About Me</h2>
       <ul>
-        <li>🔭 I’m currently working on <strong>PERN Stack Projects</strong></li>
-        <li>🌱 I’m currently learning <strong>Advanced DevOps</strong></li>
-        <li>🤝 I’m looking for collaborations on <strong>Startup Projects</strong></li>
-        <li>💬 Ask me about <strong>React, JavaScript, Java, Bash Scripting</strong></li>
+        <li>🔭 I'm currently working on <strong>PERN Stack Projects</strong></li>
+        <li>🌱 I'm currently learning <strong>Advanced DevOps</strong></li>
+        <li>🤝 I'm looking for collaborations on <strong>Startup Projects</strong></li>
+        <li>💬 Ask me about <strong>React, JavaScript, Java, Bash Scripting, FastAPI, REST API, Microservice Architecture, RabbitMQ, Kubernetes, Ansible, MCP</strong></li>
         <li>📫 How to reach me: <strong>azraf4communication@gmail.com</strong></li>
         <li>⚡ Fun fact: <strong>I love watching documentaries about International Politics!</strong></li>
       </ul>
@@ -101,10 +101,16 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### 🔹 Backend & Databases  
+### 🔹 Backend & API  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-%23007EC6.svg?style=for-the-badge">
+</p>
+
+### 🔹 Databases  
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
@@ -112,11 +118,20 @@
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
-### 🔹 DevOps & CI/CD  
+### 🔹 Microservices & Message Queues  
 <p align="center">
+  <img src="https://img.shields.io/badge/Microservices-%23007EC6.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-%23007EC6.svg?style=for-the-badge">
+</p>
+
+### 🔹 DevOps & Infrastructure  
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab%20CI/CD-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ### 🔹 Blockchain Development  
@@ -125,7 +140,7 @@
   <img src="https://img.shields.io/badge/Brownie-%23663399.svg?style=for-the-badge&logo=ethereum&logoColor=white">
 </p>
 
-### 🔹 Tools & Other  
+### 🔹 Tools & Operating Systems  
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
