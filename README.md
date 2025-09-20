@@ -27,8 +27,8 @@
     <td>
       <h2>🚀 About Me</h2>
       <ul>
-        <li>🔭 I’m currently working on <strong>MERN Stack Projects</strong></li>
-        <li>🌱 I’m currently learning <strong>Advanced MERN Development</strong></li>
+        <li>🔭 I’m currently working on <strong>PERN Stack Projects</strong></li>
+        <li>🌱 I’m currently learning <strong>Advanced DevOps</strong></li>
         <li>🤝 I’m looking for collaborations on <strong>Startup Projects</strong></li>
         <li>💬 Ask me about <strong>React, JavaScript, Java, Bash Scripting</strong></li>
         <li>📫 How to reach me: <strong>azraf4communication@gmail.com</strong></li>
