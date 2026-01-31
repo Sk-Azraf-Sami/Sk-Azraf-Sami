@@ -16,7 +16,7 @@
 <!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sk-azraf-sami&theme=tokyonight&no-frame=true&no-bg=true&title=-Reviews" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy-two-gray.vercel.app/?username=sk-azraf-sami&theme=tokyonight&no-frame=true&no-bg=true&title=-Reviews" alt="GitHub Trophies">
   </a>
 </p>
 
