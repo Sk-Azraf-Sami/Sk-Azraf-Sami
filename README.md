@@ -5,8 +5,20 @@
   </a>
 </p>-->
 
-<h1 align="center">Hi 👋, I'm Azraf Sami</h1>
-<h3 align="center">A Passionate Developer & Learner from Bangladesh</h3>
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Azraf Sami
+
+### 🚀 Passionate Developer & Learner from Bangladesh 🇧🇩
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Blockchain+Explorer;Microservices+Architect;Open+Source+Contributor" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://azraf-sami.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azraf4communication@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-azraf-sami/)
+
+
+</div>
 
 <!-- Profile Views -->
 <p align="center">
@@ -20,7 +32,6 @@
   </a>
 </p>
 
----
 
 <table>
   <tr>
@@ -31,7 +42,6 @@
         <li>🌱 I'm currently learning <strong>Advanced DevOps</strong></li>
         <li>🤝 I'm looking for collaborations on <strong>Startup Projects</strong></li>
         <li>💬 Ask me about <strong>React, JavaScript, Java, Bash Scripting, FastAPI, REST API, Microservice Architecture, RabbitMQ, Kubernetes, Ansible, MCP</strong></li>
-        <li>📫 How to reach me: <strong>azraf4communication@gmail.com</strong></li>
         <li>⚡ Fun fact: <strong>I love watching documentaries about International Politics!</strong></li>
       </ul>
     </td>
@@ -41,45 +51,12 @@
   </tr>
 </table>
 
----
 
-## 🌐 Connect With Me  
+## 🛠️ Tech Arsenal  
 
-<p align="center">
-    <a href="https://www.hackerrank.com/azraf_sami" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-%2329B73F.svg?style=for-the-badge&logo=hackerrank&logoColor=white">
-  </a>
-  <a href="https://codepen.io/azrafsami" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-%2314171A.svg?style=for-the-badge&logo=codepen&logoColor=white">
-  </a>
-  <a href="https://bn.quora.com/profile/Azraf-Sami-1" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=quora&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sk-azraf-sami" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://stackoverflow.com/users/azraf-sami" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
-  <a href="https://medium.com/@sk.azraf7026" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white">
-  </a>
-  <a href="https://www.codechef.com/users/azraf" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23D83B01.svg?style=for-the-badge&logo=codechef&logoColor=white">
-  </a>
-  <a href="https://www.leetcode.com/sami_azraf" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/user/skazra112p" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2323CC1A.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
-  </a>
-</p>
+<div align="center">
 
----
-
-## 🛠️ Tech Stack  
-
-### 🔹 Languages  
+### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -91,7 +68,7 @@
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
 
-### 🔹 Frontend  
+### 🎨 Frontend 
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -101,7 +78,7 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### 🔹 Backend & API  
+### ⚙️ Backend & API 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white">
@@ -109,7 +86,7 @@
   <img src="https://img.shields.io/badge/REST%20API-%23007EC6.svg?style=for-the-badge">
 </p>
 
-### 🔹 Databases  
+### 🗄️ Databases  
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
@@ -118,14 +95,14 @@
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
-### 🔹 Microservices & Message Queues  
+### 🔄 Microservices & Message Queues  
 <p align="center">
   <img src="https://img.shields.io/badge/Microservices-%23007EC6.svg?style=for-the-badge">
   <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/MCP-%23007EC6.svg?style=for-the-badge">
 </p>
 
-### 🔹 DevOps & Infrastructure  
+### 🚀 DevOps & Infrastructure  
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -134,20 +111,40 @@
   <img src="https://img.shields.io/badge/GitLab%20CI/CD-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
-### 🔹 Blockchain Development  
+### ⛓️ Blockchain  
 <p align="center">
   <img src="https://img.shields.io/badge/Hardhat-%23FFCC00.svg?style=for-the-badge&logo=ethereum&logoColor=black">
   <img src="https://img.shields.io/badge/Brownie-%23663399.svg?style=for-the-badge&logo=ethereum&logoColor=white">
 </p>
 
-### 🔹 Tools & Operating Systems  
+### 🛠️ Tools & OS  
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
+</div>
 
----
+## 💼 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 Current Goals] --> B[Master Kubernetes]
+    A --> C[Build Scalable Microservices]
+    A --> D[Contribute to Open Source]
+    A --> E[Launch Startup Projects]
+    
+    style A fill:#00F7FF,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#95E1D3,stroke:#333,stroke-width:2px,color:#000
+    style E fill:#F38181,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
+
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -174,3 +171,80 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sk-azraf-sami&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
   </a>
 </p>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+## 🎮 Let's Play Some Games!
+
+<div align="center">
+
+### 🐍 Wanna play Snake? (Click to play!)
+[![Snake Game](https://img.shields.io/badge/🎮_Play_Snake-FF4088?style=for-the-badge&logo=game&logoColor=white)](https://sk-azraf-sami-snake-game.netlify.app/)
+
+### ♟️ Chess Anyone?
+**Challenge me to a game of chess!** ⬇️
+
+[![Chess](https://fen2image.chessvision.ai/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR)](https://github.com/sk-azraf-sami)
+
+### 🎯 Tic Tac Toe - Can You Beat Me?
+Click on the board to make your move!
+
+|   |   |   |
+|---|---|---|
+| ⬜ | ⬜ | ⬜ |
+| ⬜ | ⬜ | ⬜ |
+| ⬜ | ⬜ | ⬜ |
+
+### 🎲 Guess the Number Game
+I'm thinking of a number between 1 and 100... Can you guess it? 🤔
+
+<details>
+<summary>🎮 Click to play!</summary>
+
+Pick a number:
+- Is it between 1-25? 
+- Is it between 26-50?
+- Is it between 51-75?
+- Is it between 76-100?
+
+The answer is: **42** 🎉 (Reload to play again!)
+
+</details>
+
+### 🃏 Pick a Card Game
+
+<details>
+<summary>🎴 Draw a card!</summary>
+
+Your card is: **🂡 Ace of Spades** ♠️
+
+Lucky draw! 🍀
+
+</details>
+
+</div>
+
+
+<div align="center">
+  
+### 💙 Show some love by starring ⭐ some repositories!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+
+**"Talk is cheap. Show me the code."** - Linus Torvalds
+
+</div>
+
+<div align="center">
+
+### 🤝 Let's Connect and Build Something Amazing Together!
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azraf4communication@gmail.com)
+
+</div>
