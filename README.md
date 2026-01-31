@@ -9,7 +9,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Azraf Sami
 
-### 🚀 Passionate Developer & Learner from Bangladesh 🇧🇩
+### Passionate Developer & Learner from Bangladesh 🇧🇩
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Blockchain+Explorer;Microservices+Architect;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td>
-      <h2>🚀 About Me</h2>
+      <h2>🎯 About Me</h2>
       <ul>
         <li>🔭 I'm currently working on <strong>PERN Stack Projects</strong></li>
         <li>🌱 I'm currently learning <strong>Advanced DevOps</strong></li>
