@@ -180,56 +180,6 @@ graph LR
 
 </div>
 
-## 🎮 Let's Play Some Games!
-
-<div align="center">
-
-### 🐍 Wanna play Snake? (Click to play!)
-[![Snake Game](https://img.shields.io/badge/🎮_Play_Snake-FF4088?style=for-the-badge&logo=game&logoColor=white)](https://sk-azraf-sami-snake-game.netlify.app/)
-
-### ♟️ Chess Anyone?
-**Challenge me to a game of chess!** ⬇️
-
-[![Chess](https://fen2image.chessvision.ai/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR)](https://github.com/sk-azraf-sami)
-
-### 🎯 Tic Tac Toe - Can You Beat Me?
-Click on the board to make your move!
-
-|   |   |   |
-|---|---|---|
-| ⬜ | ⬜ | ⬜ |
-| ⬜ | ⬜ | ⬜ |
-| ⬜ | ⬜ | ⬜ |
-
-### 🎲 Guess the Number Game
-I'm thinking of a number between 1 and 100... Can you guess it? 🤔
-
-<details>
-<summary>🎮 Click to play!</summary>
-
-Pick a number:
-- Is it between 1-25? 
-- Is it between 26-50?
-- Is it between 51-75?
-- Is it between 76-100?
-
-The answer is: **42** 🎉 (Reload to play again!)
-
-</details>
-
-### 🃏 Pick a Card Game
-
-<details>
-<summary>🎴 Draw a card!</summary>
-
-Your card is: **🂡 Ace of Spades** ♠️
-
-Lucky draw! 🍀
-
-</details>
-
-</div>
-
 
 <div align="center">
   
