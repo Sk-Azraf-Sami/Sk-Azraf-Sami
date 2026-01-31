@@ -172,6 +172,8 @@ graph LR
   </a>
 </p>
 
+![Snake animation](https://github.com/Sk-Azraf-Sami/Sk-Azraf-Sami/blob/output/github-contribution-grid-snake.svg)
+
 ## 💭 Random Dev Quote
 
 <div align="center">
