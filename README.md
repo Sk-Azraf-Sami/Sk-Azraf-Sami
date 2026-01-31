@@ -152,7 +152,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-azraf-sami&layout=compact&theme=tokyonight&hide_title=true&border_radius=10" alt="Top Languages">
+    <img src="https://github-readme-stats-vert-delta-68.vercel.app/api/top-langs/?username=sk-azraf-sami&layout=compact&theme=tokyonight&hide_title=true&border_radius=10" alt="Top Languages">
   </a>
 </p>
 
@@ -164,7 +164,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sk-azraf-sami&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&border_radius=10" alt="GitHub Stats">
+    <img src="https://github-readme-stats-vert-delta-68.vercel.app/api?username=sk-azraf-sami&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=prs&border_radius=10" alt="GitHub Stats">
   </a>
 </p>
 
