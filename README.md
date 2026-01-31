@@ -172,7 +172,8 @@ graph LR
   </a>
 </p>
 
-![Snake animation](https://github.com/Sk-Azraf-Sami/Sk-Azraf-Sami/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Sk-Azraf-Sami/Sk-Azraf-Sami/blob/output/github-contribution-grid-snake.svg)-->
+<!--https://github.com/abozanona/pacman-contribution-graph-->
 
 ## 💭 Random Dev Quote
 
